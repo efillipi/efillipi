@@ -5,11 +5,11 @@
 
 ### Olá eu sou Edney Fillipi
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
-- ⚡ Fun fact: Data Analysis📊
+- Graduado em Ciência da Computação e Tecnologo em Analise e Desenvolvimento de Sistemas.
+- 🌱 Atualmente Trabalhando Na Maktub como Desenvolvedor Full Stack Jr (Com foco no Back-End).
+- 🏡 Brazilian, Based in Mauá, SP
+- #segueojogo Amante da natureza / viajante de outro planeta / zueiranerdend / tecnologia / memes hu3 </3
+
 
 ### 🛠 技术栈 | Tech Stack
 
