@@ -8,6 +8,7 @@
 - 🏡 Brasil, Mauá, SP
 - #SEGUEOJOGO #HISTÓRIANOSSASHISTÓRIADIASDELUTADIASDEGLÓRIA
 - Amante da natureza / Viajante de outro planeta / Zueiranerdend / Tecnologia / Memes hu3 </3
+- https://img.shields.io/twitter/url?style=social
 
 ### 🛠 | Tech Stack
 
