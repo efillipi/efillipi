@@ -1,11 +1,12 @@
 ## Hello Jovens padawans 🖖🏼
 
 [![Mail Badge](https://img.shields.io/badge/-e.fillipi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:e.fillipi@gmail.com)](mailto:e.fillipi@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edney-fillipi/)]
 
 ### Olá eu sou Edney Fillipi
 
-- Graduado em Ciência da Computação e Tecnologo em Analise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente drabalhando na Maktub como desenvolvedor Full Stack Jr (Com foco no Back-End).
+- Graduado em Ciência da Computação e Tecnólogo em Analise e Desenvolvimento de Sistemas.
+- 🌱 Atualmente trabalhando na Maktub como desenvolvedor Full Stack Jr (Com foco no Back-End).
 - 🏡 Brasil, Mauá, SP
 - #SEGUEOJOGO #HISTÓRIANOSSASHISTÓRIADIASDELUTADIASDEGLÓRIA
 - Amante da natureza / Viajante de outro planeta / Zueiranerdend / Tecnologia / Memes hu3 </3
