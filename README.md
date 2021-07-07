@@ -1,11 +1,13 @@
-## Hello Jovens padawans 🖖🏼
+## Hello Joven padawan ⭐️
+
+###
 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:e.fillipi@gmail.com)](mailto:e.fillipi@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/edney-fillipi/)](https://www.linkedin.com/in/edney-fillipi/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/edney.fillipi)](https://www.facebook.com/edney.fillipi)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/efillipi/)](https://www.instagram.com/efillipi/)
 
-<img align="right" height="250" src="https://media4.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+<img align="right" height="250" src="https://media.giphy.com/media/ky91tU8c5I64El9qnA/giphy.gif" />
 
 ### Eu sou Edney Fillipi
 
@@ -13,7 +15,7 @@
 - Atualmente trabalhando na Maktub como desenvolvedor Full Stack Jr
 - 🏡 Brasil, Mauá, SP
 - #SEGUEOJOGO #HISTÓRIANOSSASHISTÓRIADIASDELUTADIASDEGLÓRIA #COPIADACOPIADACOPIA
-- Amante da natureza / Viajante de outro planeta / Zueiranerdend / Tecnologia / Memes hu3 </3
+- Amante da natureza / Viajante de outro planeta / Zueiraneverends / Tecnologia / Memes hu3 </3
 
 ### 🛠 | Tech Stack
 
@@ -38,5 +40,3 @@
 - 🔧 &#160;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-333333?style=flat&logo=VisualStudioCode)
-
-⭐️ From [Edney Fillipi](https://github.com/efillipi)
