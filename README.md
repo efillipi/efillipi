@@ -8,7 +8,6 @@
 - 🏡 Brasil, Mauá, SP
 - #SEGUEOJOGO #HISTÓRIANOSSASHISTÓRIADIASDELUTADIASDEGLÓRIA
 - Amante da natureza / Viajante de outro planeta / Zueiranerdend / Tecnologia / Memes hu3 </3
-- https://img.shields.io/twitter/url?style=social
 
 ### 🛠 | Tech Stack
 
@@ -28,7 +27,7 @@
 
 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:e.fillipi@gmail.com)](mailto:e.fillipi@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edney-fillipi/)](https://www.linkedin.com/in/edney-fillipi/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/edney-fillipi/)](https://www.linkedin.com/in/edney-fillipi/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/edney.fillipi)](https://www.facebook.com/edney.fillipi)
 
 ⭐️ From [Edney Fillipi](https://github.com/efillipi)
