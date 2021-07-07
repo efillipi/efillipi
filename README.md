@@ -7,7 +7,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/edney.fillipi)](https://www.facebook.com/edney.fillipi)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/efillipi/)](https://www.instagram.com/efillipi/)
 
-<img align="right" height="250" src="https://media.giphy.com/media/ky91tU8c5I64El9qnA/giphy.gif" />
+<img align="right" height="250" src="https://media.giphy.com/media/9VrNAJYptox5nKGXmr/giphy.gif" />
 
 ### Eu sou Edney Fillipi
 
