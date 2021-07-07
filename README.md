@@ -1,6 +1,10 @@
 ## Hello Jovens padawans 👋
 
 [![Mail Badge](https://img.shields.io/badge/-e.fillipi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:e.fillipi@gmail.com)](mailto:e.fillipi@gmail.com)
+
+[![Facebook Badge](https://img.shields.io/badge/-e.fillipi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:e.fillipi@gmail.com)](mailto:e.fillipi@gmail.com)
+
+[![Instagram Badge](https://img.shields.io/badge/-e.fillipi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:e.fillipi@gmail.com)](mailto:e.fillipi@gmail.com)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
