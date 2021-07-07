@@ -12,7 +12,7 @@
 - Graduado em Ciência da Computação e Tecnólogo em Analise e Desenvolvimento de Sistemas.
 - Atualmente trabalhando na Maktub como desenvolvedor Full Stack Jr
 - 🏡 Brasil, Mauá, SP
-- #SEGUEOJOGO #HISTÓRIANOSSASHISTÓRIADIASDELUTADIASDEGLÓRIA
+- #SEGUEOJOGO #HISTÓRIANOSSASHISTÓRIADIASDELUTADIASDEGLÓRIA #COPIADACOPIADACOPIA
 - Amante da natureza / Viajante de outro planeta / Zueiranerdend / Tecnologia / Memes hu3 </3
 
 ### 🛠 | Tech Stack
@@ -22,12 +22,12 @@
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)
 ![OS](https://img.shields.io/badge/-MAC-333333?style=flat&logo=APPLE)
 
-- 🌐 &#160;
+- 📖 &#160;
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
-![javaScript.js](https://img.shields.io/badge/-JavaScript.js-333333?style=flat&logo=javaScript)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![typeScript.ts](https://img.shields.io/badge/-TypeScript.ts-333333?style=flat&logo=typeScript)
+![javaScript.js](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javaScript)
+![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
+![typeScript.ts](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typeScript)
 ![react.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 - 🛢 &#160;
