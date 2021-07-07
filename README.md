@@ -1,9 +1,7 @@
 ## Hello Jovens padawans 🖖🏼
----
 
 [![Mail Badge](https://img.shields.io/badge/-e.fillipi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:e.fillipi@gmail.com)](mailto:e.fillipi@gmail.com)
 
----
 
 ### Olá eu sou Edney Fillipi
 
