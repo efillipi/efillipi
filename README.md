@@ -37,6 +37,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=MariaDB)
 ![SQLITE](https://img.shields.io/badge/-SQLITE-333333?style=flat&logo=SQLITE)
+![redis](https://img.shields.io/badge/-redis-333333?style=flat&logo=redis)
+![mongodb](https://img.shields.io/badge/-mongodb-333333?style=flat&logo=mongodb)
+![postgresql](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresql)
 
 - 🔧 &#160;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
