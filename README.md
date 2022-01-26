@@ -29,8 +29,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
 ![javaScript.js](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javaScript)
 ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
-![typeScript.ts](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typeScript)
-![react.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![TypeScript.ts](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typeScript)
+![React.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Nest.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 - 🛢 &#160;
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
