@@ -12,7 +12,8 @@
 <img align="right" height="250" src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif"/>
 
 - Graduado em Ciência da Computação e Tecnólogo em Analise e Desenvolvimento de Sistemas.
-- Atualmente trabalhando na Maktub como desenvolvedor Full Stack Jr
+- Atualmente trabalhando na Midway como Desenvolvedor
+
 - 🏡 Brasil, Mauá, SP
 - #SEGUEOJOGO #HISTÓRIANOSSASHISTÓRIADIASDELUTADIASDEGLÓRIA #COPIADACOPIADACOPIA
 - Amante da natureza / Viajante de outro planeta / Zueiraneverends / Tecnologia / Memes hu3 </3
