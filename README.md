@@ -12,7 +12,7 @@
 <img align="right" height="250" src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif"/>
 
 - Graduado em Ciência da Computação e Tecnólogo em Analise e Desenvolvimento de Sistemas.
-- Atualmente trabalhando na Midway como Desenvolvedor
+- Atualmente trabalhando na Midway como ANALISTA SISTEMAS PL
 
 - 🏡 Brasil, Mauá, SP
 - #SEGUEOJOGO #HISTÓRIANOSSASHISTÓRIADIASDELUTADIASDEGLÓRIA #COPIADACOPIADACOPIA
