@@ -33,6 +33,9 @@
 ![TypeScript.ts](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typeScript)
 ![React.js](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Nest.js](https://img.shields.io/badge/-nestjs-333333?style=flat&logo=nestjs)
+![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk)
+![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go)
+
 
 - 🛢 &#160;
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
